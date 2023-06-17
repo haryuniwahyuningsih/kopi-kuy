@@ -40,11 +40,11 @@
     ],
     "americano": [
         {
-            "foto": "images/produk/product_espresso.jpg",
-            "nama": "Americano Espresso",
+            "foto": "https://assets.kompasiana.com/items/album/2023/01/15/homemade-iced-americano-recipe-1-720x1080-63c3e4d84addee7149048932.jpg?t=o&v=740&x=416",
+            "nama": "Americano Black Coffe",
             "size": "100 Gram",
-            "harga": "56.000",
-            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+            "harga": "36.000",
+            "link": "https://www.google.com/search?q=kopi+americano&tbm=isch&sxsrf=APwXEddrBNoOtZe8ToIHLYbqLqEETnuSjw:1686974273057&source=lnms&sa=X&ved=0ahUKEwj6lanytMn_AhUWa2wGHWAmAd8Q0pQJCLoG&biw=1536&bih=754&dpr=1.25#imgrc=nPVRQfxmEeAhMM"
         },
         {
             "foto": "images/produk/product_kopi_susu.jpg",
